@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [pinduoduo](https://www.pinduoduo.com/index.html)
-- 📫 How to reach me: yinze_wjw@qq.com;yinze@pinduoduo.com
+- 📫 How to reach me: yinze_wjw@qq.com
 - 😄 Pronouns: 胤泽
 <!--
 **yinze00/yinze00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
