@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [TikTok](https:/tiktok.com) as an Recommender System Engineer. 
+- 🔭 I’m currently working on [TikTok](https://tiktok.com) as an Recommender ML Infra System Engineer. 
 - 📫 How to reach me: yinze_wjw@qq.com
 <!--
 **yinze00/yinze00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
